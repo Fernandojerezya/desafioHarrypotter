@@ -5,3 +5,13 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+
+# Crear 10 personajes aleatorios
+10.times do
+  Character.create(
+    name: Faker::Name.name,
+    location: Faker::Address.city,
+    house: Faker::Movies::HarryPotter.house
+  )
+end

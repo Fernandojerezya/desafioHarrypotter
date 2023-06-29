@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Proyecto Harry P;
 
-Things you may want to cover:
 
-* Ruby version
+Descripción del Proyecto : Es una aplicación simple ruby on rails donde se consultan los PJ de las peliculas de HHPP;
+Estado del proyecto INICIAL;
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Herramientas  utilizadas RUBY ,RAILS,HEROKU,VSL,UBUNTU,Postgrest;
+Personas Desarrolladoras del Proyecto FJY;
+Licencia Free
